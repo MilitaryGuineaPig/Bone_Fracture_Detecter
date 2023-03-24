@@ -4,6 +4,8 @@ Hi there 👋
 
 This is my unfinished diploma work.
 
+All code files will be posted after final release!
+
 I made this program using Python, Google Colab and Yolo pre-trained model.
 
 Functionality:
