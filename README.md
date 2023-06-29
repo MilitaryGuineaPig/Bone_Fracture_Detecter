@@ -1,4 +1,4 @@
-# Bone_Fracture_Detecter
+# Bone_Fracture_Detector
 
 Hi there 👋 
 
